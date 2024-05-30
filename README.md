@@ -1,4 +1,4 @@
-This project was made for an internship task. It is a simple painting application that works on Android devices.
+This project was made for an internship task. It is a simple painting application that works on Android devices made with Unity.
 
 # Features:
 -  Three different size of brushes that will leave a thin residue of selected color behind 
